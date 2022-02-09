@@ -11,12 +11,12 @@ Uebung21 am Nachmittag
 
   
 ## Externer Link  
-	[Hier geht es zur Github-Doku](https://docs.github.com/de)
+[Hier geht es zur Github-Doku](https://docs.github.com/de)
 
 
-##  Interner Link  
+##  Interner Link  	
 	
-	![Bildschirmfoto](/images.png/Bildschirmfoto von 2022-02-07 16-20-30.pngimages.png/)
+![Bildschirmfoto](/images.png/Bildschirmfoto von 2022-02-07 16-20-30.pngimages.png/)
 
 
 ##  Bilder  
