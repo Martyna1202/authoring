@@ -16,7 +16,7 @@ Uebung21 am Nachmittag
 
 ##  Interner Link  	
 	
-![Bildschirmfoto](/images.png/Bildschirmfoto von 2022-02-07 16-20-30.pngimages.png/)
+![Bildschirmfoto](/images.png/Bildschirmfoto.png)
 
 
 ##  Bilder  
