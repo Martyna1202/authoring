@@ -4,10 +4,10 @@ Uebung21 am Nachmittag
 # Markdown mit Github Geschmack
 
 - [x] [Externer Link](#externer-link)  
-- [ ] [Interner Link](#interner-link)  
-- [ ] [Bilder](#Bilder)  
-- [ ] [Emojis](#emoji)
-- [ ] [Tabelle](#tabelle)  
+- [x] [Interner Link](#interner-link)  
+- [x] [Bilder](#Bilder)  
+- [x] [Emojis](#emoji)
+- [x] [Tabelle](#tabelle)  
 
   
 ## Externer Link  
