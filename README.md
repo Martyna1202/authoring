@@ -16,7 +16,7 @@ Uebung21 am Nachmittag
 
 ##  Interner Link  
 	Link auf das Bild im Ordner images
-	![Bildschirmfoto](/images.png/Bildschirmfoto von 2022-02-07 16-20-30.pngimages.png/Bildschirmfoto\ von\ 2022-02-07\ 16-20-30.png)
+	![Bildschirmfoto](/images.png/Bildschirmfoto von 2022-02-07 16-20-30.pngimages.png/)
 
 
 ##  Bilder  
