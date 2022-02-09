@@ -23,9 +23,9 @@ Uebung21 am Nachmittag
 	
  
 ## Emojis  
-	- :grinning:
-	- :smile:
-	- :joy:
+:grinning:
+:smile:
+:joy:
 
 
 ## Tabelle  
